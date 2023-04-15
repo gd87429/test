@@ -1,0 +1,46 @@
+{
+    "name": "Test1",
+    "url": "https://test.com",
+    "email": "support@test.com",
+    "offices": [
+        "san-francisco-california"
+    ],
+    "jobs": [
+        {
+            "position": "full-stack-engineer",
+            "type": "full-time",
+            "salary": {
+                "amount": [
+                    123000, 123000
+                ],
+                "range": "yearly",
+                "currency": "usd"
+            },
+            "equity": [0.01, 0.1],
+            "tech": [
+                "rust",
+                "javascript"
+            ]
+        },
+        {
+            "position": "frontend-engineer",
+            "type": "contract",
+            "salary": {
+                "amount": [
+                    100, 250
+                ],
+                "range": "hourly",
+                "currency": "eur"
+            },
+            "tech": [
+                "javascript"
+            ]
+        }
+    ],
+    "admins": {
+        "github": [
+            "test"
+        ]
+    },
+    "updated": "2023-04-14T01:34:00.182Z"
+}

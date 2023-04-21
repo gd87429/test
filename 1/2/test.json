@@ -2,6 +2,15 @@
     "name": "Test1",
     "url": "https://test.com",
     "email": "support@test.com",
+    "building": [
+        {
+            "name": "Test",
+            "url": "https://test.com"
+        }, {
+            "name": "Something Else",
+            "url": "https://example.com"
+        }
+    ],
     "socials": [
         "https://github.com/test",
         "https://twitter.com/test"

@@ -49,6 +49,7 @@
                 "range": "hourly",
                 "currency": "eur"
             },
+            "equity": [0, 0],
             "tech": [
                 "javascript"
             ],

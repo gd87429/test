@@ -23,6 +23,7 @@
     "jobs": [
         {
             "position": "full-stack-engineer",
+            "level": "any",
             "type": "full-time",
             "salary": {
                 "amount": [
@@ -40,6 +41,7 @@
         },
         {
             "position": "frontend-engineer",
+            "level": "senior",
             "type": "contract",
             "oss": true,
             "salary": {

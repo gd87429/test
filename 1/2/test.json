@@ -1,25 +1,25 @@
 {
-    "name": "Test1",
-    "url": "https://test.com",
-    "email": "support@test.com",
+    "name": "OpenAI",
+    "url": "https://openai.com/",
+    "email": "support@openai.com",
     "building": [
         {
-            "name": "Test",
-            "url": "https://test.com"
+            "name": "DALL-E",
+            "url": "https://openai.com/product/dall-e-2"
         }, {
-            "name": "Something Else",
-            "url": "https://example.com"
+            "name": "ChatGPT",
+            "url": "https://openai.com/blog/chatgpt"
         }
     ],
     "socials": [
-        "https://github.com/test",
-        "https://twitter.com/test"
+        "https://github.com/openai",
+        "https://twitter.com/OpenAI"
     ],
     "offices": [
         "san-francisco-california"
     ],
-    "headcount": 15,
-    "founded": 2023,
+    "headcount": 0,
+    "founded": 2015,
     "jobs": [
         {
             "position": "full-stack-engineer",
@@ -27,36 +27,21 @@
             "type": "full-time",
             "salary": {
                 "amount": [
-                    123000, 123000
+                    200000, 370000
                 ],
                 "range": "yearly",
                 "currency": "usd"
             },
-            "equity": [0.01, 0.1],
-            "tech": [
-                "rust",
-                "javascript"
-            ],
-            "url": "https://example.com/job/1"
-        },
-        {
-            "position": "frontend-engineer",
-            "level": "junior",
-            "type": "contract",
-            "oss": true,
-            "salary": {
-                "amount": [
-                    100, 250
-                ],
-                "range": "hourly",
-                "currency": "eur"
-            },
             "equity": [0, 0],
             "tech": [
-                "javascript"
+                "postgres",
+                "mysql",
+                "javascript",
+                "react",
+                "python"
             ],
-            "url": "https://example.com/job/2"
+            "url": "https://openai.com/careers/software-engineer-full-stack-dalle"
         }
     ],
-    "updated": "2023-04-15T01:34:00.182Z"
+    "updated": "2023-04-29T01:34:00.182Z"
 }
